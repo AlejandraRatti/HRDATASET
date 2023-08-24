@@ -1,102 +1,102 @@
 ﻿pID,PerformanceScore,MaritalStatus,RecruitmentSource,PerformanceScore,EngagementSurvey,EmpSatisfaction,SpecialProjectsCount,TrainingTimeLastYear,WorkLifeBalance,YearsAtCompany,OverTime,BusinessTravel,TimeToHire,DiversityHire,Sex
-102,Fully Meets,Single,Indeed,Fully Meets,4,5,1,20,3,2,No,Travel Often,21 days,No,Female
-104,Fully Meets,Divorced,Glassdoor,Fully Meets,3,3,2,15,3,3,Yes,Non-Travel,30 days,No,Male
-105,Below,Single,LinkedIn,Below,2,2,0,10,2,1,No,Travel Often,10 days,No,Female
-107,Exceeds,Married,Job Board,Fully Meets,4,4,5,15,5,2,No,Frequently,45 days,No,Male
-109,Fully Meets,Single,Employee Referral,Fully Meets,4,4,4,18,4,3,No,Occasionally,20 days,No,Female
-111,Exceeds,Married,LinkedIn,Exceeds,5,4,5,16,5,6,No,Travel Often,21 days,No,Male
-113,Exceeds,Married,Employee Referral,Exceeds,5,4,6,16,5,6,Yes,Non-Travel,30 days,No,Female
-114,Fully Meets,Divorced,Glassdoor,Fully Meets,5,4,6,16,5,7,No,Travel Often,10 days,No,Male
-116,High,Single,Internal Referral,Exceeds,5,4,7,15,6,7,No,Frequently,45 days,No,Female
-118,Fully Meets,Divorced,Agency,Exceeds,5,4,8,15,6,8,No,Occasionally,20 days,No,Male
-120,Exceeds,Married,Company Website,Below,6,4,9,14,6,9,No,Travel Often,21 days,No,Female
-122,Fully Meets,Single,Indeed,Fully Meets,6,5,10,14,7,9,Yes,Non-Travel,30 days,No,Male
-123,Exceeds,Married,Employee Referral,Exceeds,6,5,10,13,7,10,No,Travel Often,10 days,No,Female
-125,Below,Single,LinkedIn,Below,6,5,11,13,7,10,No,Frequently,45 days,No,Male
-127,Exceeds,Married,Job Board,Fully Meets,6,5,12,13,8,11,No,Occasionally,20 days,No,Female
-129,Fully Meets,Single,Employee Referral,Fully Meets,7,5,13,12,8,12,No,Travel Often,21 days,No,Male
-131,Exceeds,Married,LinkedIn,Exceeds,7,5,13,12,9,12,Yes,Non-Travel,30 days,No,Female
-132,Fully Meets,Single,Indeed,Fully Meets,7,5,14,11,9,12,No,Travel Often,10 days,No,Male
-134,Fully Meets,Divorced,Glassdoor,Fully Meets,7,5,15,11,9,13,No,Frequently,45 days,No,Female
-136,High,Single,Internal Referral,Exceeds,7,5,16,10,10,14,No,Occasionally,20 days,No,Male
-138,Fully Meets,Divorced,Agency,Exceeds,7,5,16,10,10,14,No,Travel Often,21 days,No,Female
-140,Exceeds,Married,Company Website,Below,8,5,17,10,10,15,Yes,Non-Travel,30 days,No,Male
-141,Exceeds,Married,LinkedIn,Exceeds,8,5,18,9,10,15,No,Travel Often,10 days,No,Female
-143,Exceeds,Married,Employee Referral,Exceeds,8,5,18,9,11,16,No,Frequently,45 days,No,Male
-145,Below,Single,LinkedIn,Below,8,5,19,8,11,17,No,Occasionally,20 days,No,Female
-147,Exceeds,Married,Job Board,Fully Meets,8,5,20,8,12,17,No,Travel Often,21 days,No,Male
-149,Fully Meets,Single,Employee Referral,Fully Meets,9,5,21,7,12,18,Yes,Non-Travel,30 days,No,Female
-150,Exceeds,Married,Company Website,Below,9,5,21,7,12,18,No,Travel Often,10 days,No,Male
-152,Fully Meets,Single,Indeed,Fully Meets,9,5,22,7,13,19,No,Frequently,45 days,No,Female
-154,Fully Meets,Divorced,Glassdoor,Fully Meets,9,5,23,6,13,19,No,Occasionally,20 days,No,Male
-156,High,Single,Internal Referral,Exceeds,9,5,24,6,13,20,No,Travel Often,21 days,No,Female
-158,Fully Meets,Divorced,Agency,Exceeds,10,5,25,5,14,21,Yes,Non-Travel,30 days,No,Male
-159,Fully Meets,Single,Employee Referral,Fully Meets,10,5,25,5,14,21,No,Travel Often,10 days,No,Female
-161,Exceeds,Married,LinkedIn,Exceeds,10,5,26,5,14,22,No,Frequently,45 days,No,Male
-163,Exceeds,Married,Employee Referral,Exceeds,10,5,27,4,15,22,No,Occasionally,20 days,No,Female
-165,Below,Single,LinkedIn,Below,10,6,28,4,15,23,No,Travel Often,21 days,No,Male
-167,Exceeds,Married,Job Board,Fully Meets,11,6,28,3,16,24,Yes,Non-Travel,30 days,No,Female
-168,Fully Meets,Divorced,Agency,Exceeds,11,6,29,3,16,24,No,Travel Often,10 days,No,Male
-170,Exceeds,Married,Company Website,Below,11,6,30,3,16,24,No,Frequently,45 days,No,Female
-172,Fully Meets,Single,Indeed,Fully Meets,11,6,31,2,16,25,No,Occasionally,20 days,No,Male
-174,Fully Meets,Divorced,Glassdoor,Fully Meets,11,6,31,2,17,26,No,Travel Often,21 days,No,Female
-176,High,Single,Internal Referral,Exceeds,12,6,32,1,17,26,Yes,Non-Travel,30 days,No,Male
-177,Exceeds,Married,Job Board,Fully Meets,12,6,33,1,17,27,No,Travel Often,10 days,No,Female
-179,Fully Meets,Single,Employee Referral,Fully Meets,12,6,33,0,18,27,No,Frequently,45 days,No,Male
-181,Exceeds,Married,LinkedIn,Exceeds,12,6,34,0,18,28,No,Occasionally,20 days,No,Female
-183,Exceeds,Married,Employee Referral,Exceeds,12,6,35,-1,19,29,No,Travel Often,21 days,No,Male
-185,Below,Single,LinkedIn,Below,13,6,36,-1,19,29,Yes,Non-Travel,30 days,No,Female
-186,High,Single,Internal Referral,Exceeds,13,6,36,-1,19,30,No,Travel Often,10 days,No,Male
-188,Fully Meets,Divorced,Agency,Exceeds,13,6,37,-2,20,30,No,Frequently,45 days,No,Female
-190,Exceeds,Married,Company Website,Below,13,6,38,-2,20,31,No,Occasionally,20 days,No,Male
-192,Fully Meets,Single,Indeed,Fully Meets,13,6,39,-3,20,31,No,Travel Often,21 days,No,Female
-194,Fully Meets,Divorced,Glassdoor,Fully Meets,14,6,40,-3,21,32,Yes,Non-Travel,30 days,No,Male
-195,Below,Single,LinkedIn,Below,14,6,40,-3,21,32,No,Travel Often,10 days,No,Female
-197,Exceeds,Married,Job Board,Fully Meets,14,6,41,-4,21,33,No,Frequently,45 days,No,Male
-199,Fully Meets,Single,Employee Referral,Fully Meets,14,6,42,-4,22,34,No,Occasionally,20 days,No,Female
-201,Exceeds,Married,LinkedIn,Exceeds,14,6,43,-5,22,34,No,Travel Often,21 days,No,Male
-101,Exceeds,Married,LinkedIn,Exceeds,5,4,3,30,4,5,Yes,Rarely,14 days,Yes,Female
-103,Exceeds,Married,Employee Referral,Exceeds,5,5,4,25,4,7,No,Rarely,7 days,Yes,Male
-106,High,Single,Internal Referral,Exceeds,5,5,3,20,4,5,Yes,Rarely,30 days,Yes,Female
-108,Fully Meets,Divorced,Agency,Exceeds,5,5,2,12,4,8,Yes,Rarely,60 days,Yes,Male
-110,Exceeds,Married,Company Website,Below,5,5,6,22,5,7,No,Rarely,25 days,Yes,Female
-112,Fully Meets,Single,Indeed,Fully Meets,5,4,6,16,5,6,No,Rarely,7 days,Yes,Male
-115,Below,Single,LinkedIn,Below,5,4,7,15,5,7,Yes,Rarely,30 days,Yes,Female
-117,Exceeds,Married,Job Board,Fully Meets,5,4,8,15,6,8,Yes,Rarely,60 days,Yes,Male
-119,Fully Meets,Single,Employee Referral,Fully Meets,5,4,8,14,6,8,No,Rarely,25 days,Yes,Female
-121,Exceeds,Married,LinkedIn,Exceeds,6,4,9,14,7,9,No,Rarely,7 days,Yes,Male
-124,Fully Meets,Divorced,Glassdoor,Fully Meets,6,5,11,13,7,10,Yes,Rarely,30 days,Yes,Female
-126,High,Single,Internal Referral,Exceeds,6,5,11,13,8,11,Yes,Rarely,60 days,Yes,Male
-128,Fully Meets,Divorced,Agency,Exceeds,6,5,12,12,8,11,No,Rarely,25 days,Yes,Female
-130,Exceeds,Married,Company Website,Below,7,5,13,12,8,12,No,Rarely,7 days,Yes,Male
-133,Exceeds,Married,Employee Referral,Exceeds,7,5,14,11,9,13,Yes,Rarely,30 days,Yes,NB
-135,Below,Single,LinkedIn,Below,7,5,15,11,9,13,Yes,Rarely,60 days,Yes,NB
-137,Exceeds,Married,Job Board,Fully Meets,7,5,16,10,10,14,No,Rarely,25 days,Yes,Female
-139,Fully Meets,Single,Employee Referral,Fully Meets,8,5,17,10,10,15,No,Rarely,7 days,Yes,Male
-142,Fully Meets,Single,Indeed,Fully Meets,8,5,18,9,11,16,Yes,Rarely,30 days,Yes,Female
-144,Fully Meets,Divorced,Glassdoor,Fully Meets,8,5,19,9,11,16,Yes,Rarely,60 days,Yes,Male
-146,High,Single,Internal Referral,Exceeds,8,5,20,8,11,17,No,Rarely,25 days,Yes,Female
-148,Fully Meets,Divorced,Agency,Exceeds,9,5,21,8,12,18,No,Rarely,7 days,Yes,Male
-151,Exceeds,Married,LinkedIn,Exceeds,9,5,22,7,12,18,Yes,Rarely,30 days,Yes,Male
-153,Exceeds,Married,Employee Referral,Exceeds,9,5,23,6,13,19,Yes,Rarely,60 days,Yes,Male
-155,Below,Single,LinkedIn,Below,9,5,23,6,13,20,No,Rarely,25 days,Yes,Male
-157,Exceeds,Married,Job Board,Fully Meets,10,5,24,6,14,20,No,Rarely,7 days,Yes,Male
-160,Exceeds,Married,Company Website,Below,10,5,26,5,14,21,Yes,Rarely,30 days,Yes,Male
-162,Fully Meets,Single,Indeed,Fully Meets,10,5,26,4,15,22,Yes,Rarely,60 days,Yes,Male
-164,Fully Meets,Divorced,Glassdoor,Fully Meets,10,5,27,4,15,23,No,Rarely,25 days,Yes,Male
-166,High,Single,Internal Referral,Exceeds,11,6,28,3,15,23,No,Rarely,7 days,Yes,Male
-169,Fully Meets,Single,Employee Referral,Fully Meets,11,6,29,3,16,24,Yes,Rarely,30 days,Yes,Male
-171,Exceeds,Married,LinkedIn,Exceeds,11,6,30,2,16,25,Yes,Rarely,60 days,Yes,Male
-173,Exceeds,Married,Employee Referral,Exceeds,11,6,31,2,17,25,No,Rarely,25 days,Yes,Male
-175,Below,Single,LinkedIn,Below,11,6,32,1,17,26,No,Rarely,7 days,Yes,Male
-178,Fully Meets,Divorced,Agency,Exceeds,12,6,33,1,18,27,Yes,Rarely,30 days,Yes,Male
-180,Exceeds,Married,Company Website,Below,12,6,34,0,18,28,Yes,Rarely,60 days,Yes,Male
-182,Fully Meets,Single,Indeed,Fully Meets,12,6,35,0,18,28,No,Rarely,25 days,Yes,Male
-184,Fully Meets,Divorced,Glassdoor,Fully Meets,12,6,36,-1,19,29,No,Rarely,7 days,Yes,Male
-187,Exceeds,Married,Job Board,Fully Meets,13,6,37,-1,19,30,Yes,Rarely,30 days,Yes,Male
-189,Fully Meets,Single,Employee Referral,Fully Meets,13,6,38,-2,20,31,Yes,Rarely,60 days,Yes,Male
-191,Exceeds,Married,LinkedIn,Exceeds,13,6,38,-2,20,31,No,Rarely,25 days,Yes,Male
-193,Exceeds,Married,Employee Referral,Exceeds,13,6,39,-3,21,32,No,Rarely,7 days,Yes,Male
-196,High,Single,Internal Referral,Exceeds,14,6,41,-4,21,33,Yes,Rarely,30 days,Yes,Male
-198,Fully Meets,Divorced,Agency,Exceeds,14,6,41,-4,22,33,Yes,Rarely,60 days,Yes,Male
-200,Exceeds,Married,Company Website,Below,14,6,42,-4,22,34,No,Rarely,25 days,Yes,Male
+102,Fully Meets,Single,Indeed,Fully Meets,4,5,1,20,3,2,No,Frequently,21,No,Female
+104,Fully Meets,Divorced,Glassdoor,Fully Meets,3,3,2,15,3,3,Yes,Non-Travel,30,No,Male
+105,Below,Single,LinkedIn,Below,2,2,0,10,2,1,No,Frequently,10,No,Female
+107,Exceeds,Married,Job Board,Fully Meets,4,4,5,15,5,2,No,Frequently,45,No,Male
+109,Fully Meets,Single,Employee Referral,Fully Meets,4,4,4,18,4,3,No,Rarely,20,No,Female
+111,Exceeds,Married,LinkedIn,Exceeds,5,4,5,16,5,6,No,Frequently,21,No,Male
+113,Exceeds,Married,Employee Referral,Exceeds,5,4,6,16,5,6,Yes,Non-Travel,30,No,Female
+114,Fully Meets,Divorced,Glassdoor,Fully Meets,5,4,6,16,5,7,No,Frequently,10,No,Male
+116,Exceeds,Single,Internal Referral,Exceeds,5,4,7,15,6,7,No,Frequently,45,No,Female
+118,Fully Meets,Divorced,Agency,Exceeds,5,4,8,15,6,8,No,Rarely,20,No,Male
+120,Exceeds,Married,Company Website,Below,6,4,9,14,6,9,No,Frequently,21,No,Female
+122,Fully Meets,Single,Indeed,Fully Meets,6,5,10,14,7,9,Yes,Non-Travel,30,No,Male
+123,Exceeds,Married,Employee Referral,Exceeds,6,5,10,13,7,10,No,Frequently,10,No,Female
+125,Below,Single,LinkedIn,Below,6,5,11,13,7,10,No,Frequently,45,No,Male
+127,Exceeds,Married,Job Board,Fully Meets,6,5,12,13,8,11,No,Rarely,20,No,Female
+129,Fully Meets,Single,Employee Referral,Fully Meets,7,5,13,12,8,12,No,Frequently,21,No,Male
+131,Exceeds,Married,LinkedIn,Exceeds,7,5,13,12,9,12,Yes,Non-Travel,30,No,Female
+132,Fully Meets,Single,Indeed,Fully Meets,7,5,14,11,9,12,No,Frequently,10,No,Male
+134,Fully Meets,Divorced,Glassdoor,Fully Meets,7,5,15,11,9,13,No,Frequently,45,No,Female
+136,Exceeds,Single,Internal Referral,Exceeds,7,5,16,10,10,14,No,Rarely,20,No,Male
+138,Fully Meets,Divorced,Agency,Exceeds,7,5,16,10,10,14,No,Frequently,21,No,Female
+140,Exceeds,Married,Company Website,Below,8,5,17,10,10,15,Yes,Non-Travel,30,No,Male
+141,Exceeds,Married,LinkedIn,Exceeds,8,5,18,9,10,15,No,Frequently,10,No,Female
+143,Exceeds,Married,Employee Referral,Exceeds,8,5,18,9,11,16,No,Frequently,45,No,Male
+145,Below,Single,LinkedIn,Below,8,5,19,8,11,17,No,Rarely,20,No,Female
+147,Exceeds,Married,Job Board,Fully Meets,8,5,20,8,12,17,No,Frequently,21,No,Male
+149,Fully Meets,Single,Employee Referral,Fully Meets,9,5,21,7,12,18,Yes,Non-Travel,30,No,Female
+150,Exceeds,Married,Company Website,Below,9,5,21,7,12,18,No,Frequently,10,No,Male
+152,Fully Meets,Single,Indeed,Fully Meets,9,5,22,7,13,19,No,Frequently,45,No,Female
+154,Fully Meets,Divorced,Glassdoor,Fully Meets,9,5,23,6,13,19,No,Rarely,20,No,Male
+156,Exceeds,Single,Internal Referral,Exceeds,9,5,24,6,13,20,No,Frequently,21,No,Female
+158,Fully Meets,Divorced,Agency,Exceeds,10,5,25,5,14,21,Yes,Non-Travel,30,No,Male
+159,Fully Meets,Single,Employee Referral,Fully Meets,10,5,25,5,14,21,No,Frequently,10,No,Female
+161,Exceeds,Married,LinkedIn,Exceeds,10,5,26,5,14,22,No,Frequently,45,No,Male
+163,Exceeds,Married,Employee Referral,Exceeds,10,5,27,4,15,22,No,Rarely,20,No,Female
+165,Below,Single,LinkedIn,Below,10,6,28,4,15,23,No,Frequently,21,No,Male
+167,Exceeds,Married,Job Board,Fully Meets,11,6,28,3,16,24,Yes,Non-Travel,30,No,Female
+168,Fully Meets,Divorced,Agency,Exceeds,11,6,29,3,16,24,No,Frequently,10,No,Male
+170,Exceeds,Married,Company Website,Below,11,6,30,3,16,24,No,Frequently,45,No,Female
+172,Fully Meets,Single,Indeed,Fully Meets,11,6,31,2,16,25,No,Rarely,20,No,Male
+174,Fully Meets,Divorced,Glassdoor,Fully Meets,11,6,31,2,17,26,No,Frequently,21,No,Female
+176,Exceeds,Single,Internal Referral,Exceeds,12,6,32,1,17,26,Yes,Non-Travel,30,No,Male
+177,Exceeds,Married,Job Board,Fully Meets,12,6,33,1,17,27,No,Frequently,10,No,Female
+179,Fully Meets,Single,Employee Referral,Fully Meets,12,6,33,0,18,27,No,Frequently,45,No,Male
+181,Exceeds,Married,LinkedIn,Exceeds,12,6,34,0,18,28,No,Rarely,20,No,Female
+183,Exceeds,Married,Employee Referral,Exceeds,12,6,35,-1,19,29,No,Frequently,21,No,Male
+185,Below,Single,LinkedIn,Below,13,6,36,-1,19,29,Yes,Non-Travel,30,No,Female
+186,Exceeds,Single,Internal Referral,Exceeds,13,6,36,-1,19,30,No,Frequently,10,No,Male
+188,Fully Meets,Divorced,Agency,Exceeds,13,6,37,-2,20,30,No,Frequently,45,No,Female
+190,Exceeds,Married,Company Website,Below,13,6,38,-2,20,31,No,Rarely,20,No,Male
+192,Fully Meets,Single,Indeed,Fully Meets,13,6,39,-3,20,31,No,Frequently,21,No,Female
+194,Fully Meets,Divorced,Glassdoor,Fully Meets,14,6,40,-3,21,32,Yes,Non-Travel,30,No,Male
+195,Below,Single,LinkedIn,Below,14,6,40,-3,21,32,No,Frequently,10,No,Female
+197,Exceeds,Married,Job Board,Fully Meets,14,6,41,-4,21,33,No,Frequently,45,No,Male
+199,Fully Meets,Single,Employee Referral,Fully Meets,14,6,42,-4,22,34,No,Rarely,20,No,Female
+201,Exceeds,Married,LinkedIn,Exceeds,14,6,43,-5,22,34,No,Frequently,21,No,Male
+101,Exceeds,Married,LinkedIn,Exceeds,5,4,3,30,4,5,Yes,Rarely,14,Yes,Female
+103,Exceeds,Married,Employee Referral,Exceeds,5,5,4,25,4,7,No,Rarely,7,Yes,Male
+106,Exceeds,Single,Internal Referral,Exceeds,5,5,3,20,4,5,Yes,Rarely,30,Yes,Female
+108,Fully Meets,Divorced,Agency,Exceeds,5,5,2,12,4,8,Yes,Rarely,60,Yes,Male
+110,Exceeds,Married,Company Website,Below,5,5,6,22,5,7,No,Rarely,25,Yes,Female
+112,Fully Meets,Single,Indeed,Fully Meets,5,4,6,16,5,6,No,Rarely,7,Yes,Male
+115,Below,Single,LinkedIn,Below,5,4,7,15,5,7,Yes,Rarely,30,Yes,Female
+117,Exceeds,Married,Job Board,Fully Meets,5,4,8,15,6,8,Yes,Rarely,60,Yes,Male
+119,Fully Meets,Single,Employee Referral,Fully Meets,5,4,8,14,6,8,No,Rarely,25,Yes,Female
+121,Exceeds,Married,LinkedIn,Exceeds,6,4,9,14,7,9,No,Rarely,7,Yes,Male
+124,Fully Meets,Divorced,Glassdoor,Fully Meets,6,5,11,13,7,10,Yes,Rarely,30,Yes,Female
+126,Exceeds,Single,Internal Referral,Exceeds,6,5,11,13,8,11,Yes,Rarely,60,Yes,Male
+128,Fully Meets,Divorced,Agency,Exceeds,6,5,12,12,8,11,No,Rarely,25,Yes,Female
+130,Exceeds,Married,Company Website,Below,7,5,13,12,8,12,No,Rarely,7,Yes,Male
+133,Exceeds,Married,Employee Referral,Exceeds,7,5,14,11,9,13,Yes,Rarely,30,Yes,NB
+135,Below,Single,LinkedIn,Below,7,5,15,11,9,13,Yes,Rarely,60,Yes,NB
+137,Exceeds,Married,Job Board,Fully Meets,7,5,16,10,10,14,No,Rarely,25,Yes,Female
+139,Fully Meets,Single,Employee Referral,Fully Meets,8,5,17,10,10,15,No,Rarely,7,Yes,Male
+142,Fully Meets,Single,Indeed,Fully Meets,8,5,18,9,11,16,Yes,Rarely,30,Yes,Female
+144,Fully Meets,Divorced,Glassdoor,Fully Meets,8,5,19,9,11,16,Yes,Rarely,60,Yes,Male
+146,Exceeds,Single,Internal Referral,Exceeds,8,5,20,8,11,17,No,Rarely,25,Yes,Female
+148,Fully Meets,Divorced,Agency,Exceeds,9,5,21,8,12,18,No,Rarely,7,Yes,Male
+151,Exceeds,Married,LinkedIn,Exceeds,9,5,22,7,12,18,Yes,Rarely,30,Yes,Male
+153,Exceeds,Married,Employee Referral,Exceeds,9,5,23,6,13,19,Yes,Rarely,60,Yes,Male
+155,Below,Single,LinkedIn,Below,9,5,23,6,13,20,No,Rarely,25,Yes,Male
+157,Exceeds,Married,Job Board,Fully Meets,10,5,24,6,14,20,No,Rarely,7,Yes,Male
+160,Exceeds,Married,Company Website,Below,10,5,26,5,14,21,Yes,Rarely,30,Yes,Male
+162,Fully Meets,Single,Indeed,Fully Meets,10,5,26,4,15,22,Yes,Rarely,60,Yes,Male
+164,Fully Meets,Divorced,Glassdoor,Fully Meets,10,5,27,4,15,23,No,Rarely,25,Yes,Male
+166,Exceeds,Single,Internal Referral,Exceeds,11,6,28,3,15,23,No,Rarely,7,Yes,Male
+169,Fully Meets,Single,Employee Referral,Fully Meets,11,6,29,3,16,24,Yes,Rarely,30,Yes,Male
+171,Exceeds,Married,LinkedIn,Exceeds,11,6,30,2,16,25,Yes,Rarely,60,Yes,Male
+173,Exceeds,Married,Employee Referral,Exceeds,11,6,31,2,17,25,No,Rarely,25,Yes,Male
+175,Below,Single,LinkedIn,Below,11,6,32,1,17,26,No,Rarely,7,Yes,Male
+178,Fully Meets,Divorced,Agency,Exceeds,12,6,33,1,18,27,Yes,Rarely,30,Yes,Male
+180,Exceeds,Married,Company Website,Below,12,6,34,0,18,28,Yes,Rarely,60,Yes,Male
+182,Fully Meets,Single,Indeed,Fully Meets,12,6,35,0,18,28,No,Rarely,25,Yes,Male
+184,Fully Meets,Divorced,Glassdoor,Fully Meets,12,6,36,-1,19,29,No,Rarely,7,Yes,Male
+187,Exceeds,Married,Job Board,Fully Meets,13,6,37,-1,19,30,Yes,Rarely,30,Yes,Male
+189,Fully Meets,Single,Employee Referral,Fully Meets,13,6,38,-2,20,31,Yes,Rarely,60,Yes,Male
+191,Exceeds,Married,LinkedIn,Exceeds,13,6,38,-2,20,31,No,Rarely,25,Yes,Male
+193,Exceeds,Married,Employee Referral,Exceeds,13,6,39,-3,21,32,No,Rarely,7,Yes,Male
+196,Exceeds,Single,Internal Referral,Exceeds,14,6,41,-4,21,33,Yes,Rarely,30,Yes,Male
+198,Fully Meets,Divorced,Agency,Exceeds,14,6,41,-4,22,33,Yes,Rarely,60,Yes,Male
+200,Exceeds,Married,Company Website,Below,14,6,42,-4,22,34,No,Rarely,25,Yes,Male
